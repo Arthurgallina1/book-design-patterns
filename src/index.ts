@@ -1,2 +1,1 @@
-console.log('hello w')
-require('./creational/factory')
+require('./creational/factory/factory-class-test')
