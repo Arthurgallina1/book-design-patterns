@@ -1,1 +1,1 @@
-require('./creational/builder/dir-scrapper-class')
+require('./creational/builder/house-builder')
