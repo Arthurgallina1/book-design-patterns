@@ -1,1 +1,1 @@
-require('./creational/factory/factory-class-test')
+require('./creational/builder/dir-scrapper-class')
