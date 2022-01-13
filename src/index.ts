@@ -1,1 +1,1 @@
-require('./creational/builder/house-builder')
+require('./creational/prototype/prototype')
