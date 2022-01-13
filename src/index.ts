@@ -1,1 +1,1 @@
-require('./creational/prototype/prototype')
+require('./creational/prototype/prototype2')
